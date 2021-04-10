@@ -1,6 +1,6 @@
-# laravel
+# Laravel
 
-Configuracao de ambiente Laravel utilizando o docker-compose com Nginx, PHP-FPM, Redis e MySQL
+Configuração de ambiente Laravel utilizando o docker-compose com Nginx, PHP-FPM, Redis e MySQL
 
 Caminho da imagem:
 
